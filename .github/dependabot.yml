@@ -4,4 +4,5 @@ updates:
     directory: "/"
     target-branch: mll-level3
     schedule:
-      interval: "weekly"
+      interval: "daily"
+      time: "19:11"
